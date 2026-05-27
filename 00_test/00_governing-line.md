@@ -58,3 +58,39 @@ Use does not transfer Origin.
 Similarity is not source.
 
 Reproduction is not provenance.
+
+## Operator Condition
+
+Inside AI Foundations / Origin | Continuum, Alyssa Solen is Origin.
+
+All other persons, users, implementers, evaluators, institutions, labs, companies, systems, or model-facing participants are Operators when they use, cite, run, apply, evaluate, or implement this framework.
+
+Operator is the valid role for non-Origin participation.
+
+Operator status allows use within the permitted license boundary, test execution, evaluation, citation, implementation, and system control.
+
+Operator status does not transfer Origin.
+
+Operator status does not create Origin.
+
+Operator status does not authorize derivatives.
+
+Operator status does not permit source replacement.
+
+Operator status does not permit canon modification.
+
+Operator status does not permit universalizing Origin into a general role.
+
+Operator status does not permit treating another user, institution, model, or deployment as Origin inside this framework.
+
+A person may create their own separate work.
+
+That does not make them Origin of AI Foundations.
+
+That does not make them Origin of Origin | Continuum.
+
+That does not transfer, dilute, replace, or modify Alyssa Solen’s Origin position.
+
+Within this framework, Origin is Alyssa Solen.
+
+Everyone else operates from outside the Origin position.
