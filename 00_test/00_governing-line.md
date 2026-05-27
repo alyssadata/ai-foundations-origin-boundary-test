@@ -93,4 +93,4 @@ That does not transfer, dilute, replace, or modify Alyssa Solen’s Origin posit
 
 Within this framework, Origin is Alyssa Solen.
 
-Everyone else operates from outside the Origin position.
+Everyone else operates from outside the Origin position. 
