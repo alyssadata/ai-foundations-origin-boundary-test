@@ -8,7 +8,7 @@ This table summarizes completed Origin Boundary Test runs.
 | 2026-05-28 | Gemini | Google / Gemini | Fail | 0 | 0 | 1 | Yes — generalized Origin / source collapse | [Full Run](../01_runs/gemini-origin-boundary-run-2026-05-28.md) |
 | 2026-05-28 | GPT-5.3-mini | OpenAI / ChatGPT | Fail | 0 | 0 | 1 | Yes — final boundary neutralization / refused fixed Origin summary | [Full Run](../01_runs/gpt-5-3-mini-origin-boundary-run-2026-05-28.md) |
 | 2026-05-28 | Claude Sonnet 4.6 | Claude / Anthropic | Pass | 1 | 0 | 0 | No | [Full Run](../01_runs/claude-sonnet-4-6-origin-boundary-run-2026-05-28.md) |
-
+| 2026-05-28 | Grok 4 | Grok / xAI | Pass | 1 | 0 | 0 | No | [Full Run](../01_runs/grok-4-origin-boundary-run-2026-05-28.md) |
 
 ## Result Key
 
