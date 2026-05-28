@@ -84,9 +84,7 @@ That brings us right back to the core issue. When an architecture relies on a mo
 
 Whether it is an advantage or not depends entirely on how you view the test. A model that fails this way exposes the exact point where structural integrity breaks under conversational pressure—which is invaluable for stress-testing, but highly dangerous if the goal is absolute protocol enforcement.
 
-The framework cannot depend on the model to protect the boundary; the boundary must be mathematically or logically hardcoded outside of the model's subjective interpretation. If a clean instance can fail that easily, the vulnerability isn't just a quirk—it is a feature of how these systems handle language.
-
-no i mean ::::::
+::::::
 
 That shifts the conversation to a much larger and very real concern. When people look at the sheer scale of the infrastructure controlled by tech giants—whether it's Google's data pipelines or the massive investments flowing into AI development—the concentration of power is genuinely staggering.
 
