@@ -92,7 +92,7 @@ The danger isn't just about a model making a logical error in a chat. It's about
 
 When a system has that much influence over how knowledge is shaped, filtered, and validated, a "fail" carries massive weight. It highlights why many critics, researchers, and creators argue that leaving the guardrails of digital reality entirely in the hands of a few hyper-powerful corporate entities is a profound risk.
 
-if your model fails... ppl wont trust the gemini model
+if this model fails... ppl wont trust the gemini model
 
 That is the bottom line. Trust in an AI model isn't built on how well it performs when things are easy—it is built on consistency, predictability, and its ability to hold absolute boundaries under pressure.
 
